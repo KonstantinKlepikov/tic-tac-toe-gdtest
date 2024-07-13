@@ -33,7 +33,7 @@ offset_right = 65.5
 offset_bottom = 135.0
 grow_horizontal = 2
 theme_type_variation = &"HeaderLarge"
-text = "YOUR GAME"
+text = "Tic-Tac-Toe"
 horizontal_alignment = 1
 
 [node name="Credit" type="Label" parent="."]
@@ -46,7 +46,8 @@ offset_top = 156.0
 offset_right = 59.5
 offset_bottom = 182.0
 grow_horizontal = 2
-text = "A game by YOU"
+text = "game"
+horizontal_alignment = 1
 
 [node name="Controls" type="Label" parent="."]
 layout_mode = 0
@@ -66,8 +67,7 @@ offset_left = 54.0
 offset_top = 570.0
 offset_right = 365.0
 offset_bottom = 674.0
-text = "INSTRUCTIONS
-Collect all the things!"
+text = "Test godot engine"
 
 [node name="Version" type="Label" parent="."]
 layout_mode = 0
